@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=HamsterHugo&include_all_commits=true&theme=monokai)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HamsterHugo&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=HamsterHugo&include_all_commits=true&theme=monokai)
